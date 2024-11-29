@@ -1,0 +1,13 @@
+com\p\banco\erp\ocho\resources\JakartaEE91Resource.class
+servlet1.class
+servlet3.class
+com\p\banco\erp\ocho\resources\EndpointsJSON$ChargeRequest.class
+registerServlet.class
+com\p\banco\erp\ocho\resources\EndpointsJSON$PayRequest.class
+com\p\banco\erp\ocho\resources\EndpointsJSON$AccidSaldo.class
+com\p\banco\erp\ocho\resources\EndpointsJSON$Transaction.class
+com\p\banco\erp\ocho\resources\EndpointsJSON$Account.class
+secondservlet.class
+com\p\banco\erp\ocho\resources\EndpointsJSON.class
+com\p\banco\erp\ocho\resources\EndpointsJSON$DepositRequest.class
+com\p\banco\erp\ocho\JakartaRestConfiguration.class
